@@ -2,7 +2,7 @@ def speak_to_grandma if
   greeting == "Hi nana, how are you?" 
   puts "HUH?! SPEAK up, SONNY!"
   elsif
-  greeting == greeting.upcase
+  greeting.upcase == "What did you eat today?"
   puts "NO, NOT SINCE 1938!"
 else
   greeting == "I LOVE YOU GRANDMA!"
