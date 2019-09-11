@@ -1,4 +1,5 @@
 def speak_to_grandma if 
-  greeting == "Hi nana, how are you?" 
-  puts "HUH?! SPEAK up, SONNY!"
+  greeting == "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
+  
   
